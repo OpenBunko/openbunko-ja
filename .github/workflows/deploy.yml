@@ -18,7 +18,6 @@ jobs:
 
       - name: Build indexbook
         run: |
-          cd index-book
           mdbook build -d ../docs indexbook
 
       - name: Build all contents/*/* books
