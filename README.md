@@ -1,1 +1,1 @@
-# openbunko-ja
+# OpenBunko 日本語訳
