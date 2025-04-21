@@ -1,0 +1,9 @@
+[book]
+authors = ["OpenBunko and contributors"]
+language = "ja"
+multilingual = false
+src = "src"
+title = "H. P. Lovecraft"
+
+[output.html]
+git-repository-url = "https://github.com/OpenBunko/openbunko-ja"
