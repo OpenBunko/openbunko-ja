@@ -1,5 +1,5 @@
 [book]
-authors = ["OpenBunko and contributors"]
+authors = ["OpenBunko contributors"]
 language = "ja"
 multilingual = false
 src = "src"
