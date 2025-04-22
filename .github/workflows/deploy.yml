@@ -28,7 +28,7 @@ jobs:
         run: |
           find contents -type f -name "book.toml" | while read bookfile; do
             bookdir=$(dirname "$bookfile")
-            output_dir="../../book/$bookdir"
+            output_dir="../../../book/$bookdir"
             echo "📘 Building $bookdir to $output_dir"
             mdbook build -d "$output_dir" "$bookdir"
           done
