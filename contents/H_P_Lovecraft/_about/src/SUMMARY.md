@@ -1,4 +1,5 @@
 # Summary
 
-- [作品一覧](./books.md)
-- [著作権](./copyright.md)
+- [OpenBunko トップページ](https://openbunko.github.io/openbunko-ja/)
+- [H. P. Lovecraft 作品一覧](./books.md)
+
