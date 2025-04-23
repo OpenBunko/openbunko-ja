@@ -20,18 +20,8 @@ jobs:
       - name: Install mdBook
         run: cargo install mdbook
 
-      - name: Build indexbook
-        run: |
-          mdbook build -d ../book indexbook
-
-      - name: Build all contents/*/* books
-        run: |
-          find contents -type f -name "book.toml" | while read bookfile; do
-            bookdir=$(dirname "$bookfile")
-            output_dir="../../../book/$bookdir"
-            echo "📘 Building $bookdir to $output_dir"
-            mdbook build -d "$output_dir" "$bookdir"
-          done
+      - name: Build books
+        run: bash scripts/build-books.sh
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
