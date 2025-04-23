@@ -21,7 +21,7 @@ jobs:
         run: cargo install mdbook
 
       - name: Build books
-        run: bash scripts/build-books.sh
+        run: mdbook build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

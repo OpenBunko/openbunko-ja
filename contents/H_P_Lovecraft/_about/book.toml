@@ -1,9 +1,0 @@
-[book]
-authors = ["OpenBunko contributors"]
-language = "ja"
-multilingual = false
-src = "src"
-title = "OpenBunko"
-
-[output.html]
-git-repository-url = "https://github.com/OpenBunko/openbunko-ja"
