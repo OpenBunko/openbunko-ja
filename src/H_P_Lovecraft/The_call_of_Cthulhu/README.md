@@ -1,12 +1,12 @@
-# H. P. Lovecraft
+# The call of Cthulhu by H. P. Lovecraft
 
-1890-1937
-
-## 翻訳作品一覧
-
-- [The call of Cthulhu](./The_call_of_Cthulhu/index.html)
+- 原文: [Project Gutenberg](https://www.gutenberg.org/ebooks/68283)
 
 ## 著作権
 
 - アメリカにおいてパブリックドメイン
 - 日本において、没後70年および戦時加算を考慮した上でパブリックドメイン
+
+## 翻訳コントリビューター
+
+BioErrorLog
