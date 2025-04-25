@@ -4,7 +4,7 @@
 
 ## 翻訳作品一覧
 
-- [The call of Cthulhu](./The_call_of_Cthulhu/index.html)
+- [クトゥルフの呼び声 (原題: The call of Cthulhu)](./The_call_of_Cthulhu/index.html)
 
 ## 著作権
 
