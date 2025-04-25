@@ -4,4 +4,4 @@
 
 ## 著者一覧
 
-- [H. P. Lovecraft](./H_P_Lovecraft/index.html)
+- [H. P. ラヴクラフト](./H_P_Lovecraft/index.html)

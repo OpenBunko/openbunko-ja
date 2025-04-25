@@ -1,4 +1,6 @@
-# H. P. Lovecraft
+# H. P. ラヴクラフト
+
+H. P. Lovecraft
 
 1890-1937
 

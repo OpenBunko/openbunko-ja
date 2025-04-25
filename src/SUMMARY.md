@@ -6,5 +6,5 @@
 
 ---
 
-- [H. P. Lovecraft](./H_P_Lovecraft/README.md)
+- [H. P. ラヴクラフト](./H_P_Lovecraft/README.md)
   - [クトゥルフの呼び声 (原題: The call of Cthulhu)](./H_P_Lovecraft/The_call_of_Cthulhu/README.md)
